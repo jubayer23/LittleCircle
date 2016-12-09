@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LitCircle</string>
+
+
+    <string name="facebook_app_id">1812069779049265</string>
+    <string name="login_page_activity">Login</string>
+    <string name="HomeActivity">Home</string>
+</resources>
